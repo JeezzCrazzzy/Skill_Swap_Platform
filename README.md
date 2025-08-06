@@ -188,7 +188,7 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ## 📬 Contact
 
-Your Name – \[[your-email@example.com](mailto:your-email@example.com)]
+Jai Awasthi– \[[jayawasthi891@gmail.com](mailto:jayawasthi891@gmail.com.com)]
 Project Link: [https://github.com/JeezzCrazzzy/Skill\_Swap\_Platform](https://github.com/JeezzCrazzzy/Skill_Swap_Platform)
 
 ```
